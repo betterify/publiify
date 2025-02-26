@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Amplify",
+    "description": "",
+    "home_page_url": "https://betterify.github.io/publiify",
+    "feed_url": "https://betterify.github.io/publiify/feed.json",
+    "user_comment": "",
+    "icon": "https://betterify.github.io/publiify/media/website/Simple.svg",
+    "author": {
+        "name": "Avadhoot Dandekar"
+    },
+    "items": [
+    ]
+}

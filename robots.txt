@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://betterify.github.io/publiify/sitemap.xml
