@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Amplify",
+    "title": "Betterify",
     "description": "",
     "home_page_url": "https://publiify.pages.dev",
     "feed_url": "https://publiify.pages.dev/feed.json",
     "user_comment": "",
-    "icon": "https://publiify.pages.dev/media/website/Simple.svg",
+    "icon": "https://publiify.pages.dev/media/website/Betterify-Publii-Logo.svg",
     "author": {
         "name": "Avadhoot Dandekar"
     },
